@@ -1,2 +1,5 @@
 # Recoginization-of-Handwritten-digits
 logistic regression and neural networks to recognize handwritten digits
+An exercise of Coursera course 'Machine learning'.
+Automated handwritten digit recognition is widely used today - from recognizing zip codes (postal codes) on mail envelopes to recognizing amounts written on bank checks. This exercise will show how the methods which have been learned can be used for this classication task. In the first part of the exercise, we will extend your previous implemention of logistic regression and apply it to one-vs-all classification.
+DataSet in ex3data1.mat that contains 5000 training examples of handwritten digits*. The .mat format means that that the data has been saved in a native MATLAB matrix format, instead of a text (ASCII) format like a csv-file. These matrices can be read directly into program by using the load command. After loading, matrices of the correct dimensions and values will appear in program's memory. The matrix will already be named, so we do not need to assign names to them. 
