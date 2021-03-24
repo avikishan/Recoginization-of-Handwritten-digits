@@ -1,4 +1,4 @@
-# Recoginization-of-Handwritten-digits
+# Recognition-of-Handwritten-digits
 logistic regression and neural networks to recognize handwritten digits
 An exercise of Coursera course 'Machine learning'.
 Automated handwritten digit recognition is widely used today - from recognizing zip codes (postal codes) on mail envelopes to recognizing amounts written on bank checks. This exercise will show how the methods which have been learned can be used for this classication task. In the first part of the exercise, we will extend your previous implemention of logistic regression and apply it to one-vs-all classification.
